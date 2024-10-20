@@ -1,4 +1,4 @@
-# Landing Page
+# LandingPage
 
 This repository contains a simple and responsive landing page built using HTML and Tailwind CSS. The landing page is designed to be a clean, minimal interface that welcomes users and encourages them to explore the site's content.
 
